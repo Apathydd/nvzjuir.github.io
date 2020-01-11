@@ -21,7 +21,7 @@ nav_menu:
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: 项目
-    href: /projects.html
+    url: /projects.html
     icon: /i/icons.svg#portfolio
   - name: 关于我
     url: https://github.com/Nvzjuir/nvzjuir.github.io
