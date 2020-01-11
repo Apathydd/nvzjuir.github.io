@@ -61,7 +61,7 @@ exclude:
   - README.md
   - TODO.md
 
-permalink: /:collection/:path
+permalink: /:collection
 
 collections:
   category: { output: true }
