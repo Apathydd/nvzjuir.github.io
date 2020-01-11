@@ -61,7 +61,7 @@ exclude:
   - README.md
   - TODO.md
 
-permalink: /:categories/:year/:month/:title.html
+permalink: pretty
 
 collections:
   category: { output: true }
