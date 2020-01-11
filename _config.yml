@@ -24,7 +24,7 @@ nav_menu:
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: 关于我
-    url: https://github.com/rlue/
+    url: https://github.com/Nvzjuir/nvzjuir.github.io
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: 目录
